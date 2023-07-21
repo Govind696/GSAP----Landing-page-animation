@@ -1,0 +1,37 @@
+.text {
+	position: absolute;
+	bottom: 15%;
+	left: -5%;
+	overflow: hidden;
+	width: 400px;
+	height: 200px;
+	/* background-color: red; */
+	z-index: 999;
+}
+
+.text h1 {
+	/* top: 100px; */
+	/* color: #ff3e3e; */
+	font-size: 5em;
+	position: relative;
+}
+
+
+
+.text1 h1 {
+	left: 0;
+	font-size: 5em;
+	position: absolute;
+	top: 0;
+}
+
+
+.text1 p {
+	position: absolute;
+	left: 0;
+	bottom: 20px;
+}
+
+
+
+
